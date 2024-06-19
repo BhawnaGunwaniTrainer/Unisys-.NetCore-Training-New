@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Demonstrating ViewBag</h2>
+
+<h3>@ViewBag.Message</h3>
+<h5>There are @ViewBag.EmployeeCount employees in list.</h5>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in ViewBag.Employees)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Salary</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr/>
+
+<a asp-controller="Employee" asp-action="Check">Check Me</a>
+
+
+

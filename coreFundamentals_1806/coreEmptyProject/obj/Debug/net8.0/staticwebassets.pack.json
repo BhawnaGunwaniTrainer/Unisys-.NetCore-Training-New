@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bhawn\\source\\repos\\coreFundamentals_1806\\coreEmptyProject\\wwwroot\\css\\myStyles.css",
+      "PackagePath": "staticwebassets\\css\\myStyles.css"
+    },
+    {
+      "Id": "C:\\Users\\bhawn\\source\\repos\\coreFundamentals_1806\\coreEmptyProject\\wwwroot\\images\\JavaScript.png",
+      "PackagePath": "staticwebassets\\images\\JavaScript.png"
+    },
+    {
+      "Id": "C:\\Users\\bhawn\\source\\repos\\coreFundamentals_1806\\coreEmptyProject\\wwwroot\\scripts\\myScript.js",
+      "PackagePath": "staticwebassets\\scripts\\myScript.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.coreEmptyProject.props",
+      "PackagePath": "build\\coreEmptyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.coreEmptyProject.props",
+      "PackagePath": "buildMultiTargeting\\coreEmptyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.coreEmptyProject.props",
+      "PackagePath": "buildTransitive\\coreEmptyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.coreEmptyProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

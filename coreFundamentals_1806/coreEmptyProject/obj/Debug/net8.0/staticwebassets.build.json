@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "CXFlYFP4yL3jrXfpWaWw3xQYHgL3v6YeAwHxLiPOnSs=",
+  "Source": "coreEmptyProject",
+  "BasePath": "_content/coreEmptyProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "coreEmptyProject\\wwwroot",
+      "Source": "coreEmptyProject",
+      "ContentRoot": "C:\\Users\\bhawn\\source\\repos\\coreFundamentals_1806\\coreEmptyProject\\wwwroot\\",
+      "BasePath": "_content/coreEmptyProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bhawn\\source\\repos\\coreFundamentals_1806\\coreEmptyProject\\wwwroot\\css\\myStyles.css",
+      "SourceId": "coreEmptyProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bhawn\\source\\repos\\coreFundamentals_1806\\coreEmptyProject\\wwwroot\\",
+      "BasePath": "_content/coreEmptyProject",
+      "RelativePath": "css/myStyles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\myStyles.css"
+    },
+    {
+      "Identity": "C:\\Users\\bhawn\\source\\repos\\coreFundamentals_1806\\coreEmptyProject\\wwwroot\\images\\JavaScript.png",
+      "SourceId": "coreEmptyProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bhawn\\source\\repos\\coreFundamentals_1806\\coreEmptyProject\\wwwroot\\",
+      "BasePath": "_content/coreEmptyProject",
+      "RelativePath": "images/JavaScript.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\JavaScript.png"
+    },
+    {
+      "Identity": "C:\\Users\\bhawn\\source\\repos\\coreFundamentals_1806\\coreEmptyProject\\wwwroot\\scripts\\myScript.js",
+      "SourceId": "coreEmptyProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bhawn\\source\\repos\\coreFundamentals_1806\\coreEmptyProject\\wwwroot\\",
+      "BasePath": "_content/coreEmptyProject",
+      "RelativePath": "scripts/myScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts\\myScript.js"
+    }
+  ]
+}
