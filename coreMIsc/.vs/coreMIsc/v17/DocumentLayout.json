@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\",
+  "WorkspaceRootPath": "D:\\Unisys-.NetCore-Training\\coreMIsc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|c:\\users\\bhawn\\source\\repos\\coremisc\\corewebapiauthenticationproject\\migrations\\20240621061459_initialmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\migrations\\20240621061459_initialmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|c:\\users\\bhawn\\source\\repos\\coremisc\\corewebapiauthenticationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|c:\\users\\bhawn\\source\\repos\\coremisc\\corewebapiauthenticationproject\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|c:\\users\\bhawn\\source\\repos\\coremisc\\corewebapiauthenticationproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|d:\\unisys-.netcore-training\\coremisc\\corewebapiauthenticationproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|c:\\users\\bhawn\\source\\repos\\coremisc\\corewebapiauthenticationproject\\model\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|d:\\unisys-.netcore-training\\coremisc\\corewebapiauthenticationproject\\migrations\\20240621061459_initialmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\migrations\\20240621061459_initialmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|d:\\unisys-.netcore-training\\coremisc\\corewebapiauthenticationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|d:\\unisys-.netcore-training\\coremisc\\corewebapiauthenticationproject\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|d:\\unisys-.netcore-training\\coremisc\\corewebapiauthenticationproject\\model\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\model\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|c:\\users\\bhawn\\source\\repos\\coremisc\\corewebapiauthenticationproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|d:\\unisys-.netcore-training\\coremisc\\corewebapiauthenticationproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|c:\\users\\bhawn\\source\\repos\\coremisc\\corewebapiauthenticationproject\\model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|d:\\unisys-.netcore-training\\coremisc\\corewebapiauthenticationproject\\model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|c:\\users\\bhawn\\source\\repos\\coremisc\\corewebapiauthenticationproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|d:\\unisys-.netcore-training\\coremisc\\corewebapiauthenticationproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|c:\\users\\bhawn\\source\\repos\\coremisc\\corewebapiauthenticationproject\\model\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|d:\\unisys-.netcore-training\\coremisc\\corewebapiauthenticationproject\\model\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\model\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|c:\\users\\bhawn\\source\\repos\\coremisc\\corewebapiauthenticationproject\\model\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|d:\\unisys-.netcore-training\\coremisc\\corewebapiauthenticationproject\\model\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C78DBBF4-2533-4B5E-ACFC-71F165567954}|coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj|solutionrelative:corewebapiauthenticationproject\\model\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,15 +50,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "20240621061459_InitialMigrate.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Migrations\\20240621061459_InitialMigrate.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Migrations\\20240621061459_InitialMigrate.cs",
               "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\Migrations\\20240621061459_InitialMigrate.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Migrations\\20240621061459_InitialMigrate.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Migrations\\20240621061459_InitialMigrate.cs",
               "RelativeToolTip": "coreWebAPIAuthenticationProject\\Migrations\\20240621061459_InitialMigrate.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAQwCYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,39 +67,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Program.cs",
-              "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\Program.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Program.cs",
-              "RelativeToolTip": "coreWebAPIAuthenticationProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T06:11:38.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MyUser.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\MyUser.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\MyUser.cs",
               "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\Model\\MyUser.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\MyUser.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\MyUser.cs",
               "RelativeToolTip": "coreWebAPIAuthenticationProject\\Model\\MyUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T06:07:25.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T06:07:25.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\appsettings.json",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\appsettings.json",
               "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\appsettings.json",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\appsettings.json",
               "RelativeToolTip": "coreWebAPIAuthenticationProject\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-21T06:04:32.51Z",
               "EditorCaption": ""
@@ -107,80 +93,86 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Program.cs",
+              "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\Program.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Program.cs",
+              "RelativeToolTip": "coreWebAPIAuthenticationProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:11:38.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\Model\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\ApplicationDBContext.cs",
               "RelativeToolTip": "coreWebAPIAuthenticationProject\\Model\\ApplicationDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T06:03:46.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T06:03:46.056Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AppSettings.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AppSettings.cs",
               "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\Model\\AppSettings.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AppSettings.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AppSettings.cs",
               "RelativeToolTip": "coreWebAPIAuthenticationProject\\Model\\AppSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T06:03:38.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T06:03:38.813Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Services\\UserService.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Services\\UserService.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Services\\UserService.cs",
               "RelativeToolTip": "coreWebAPIAuthenticationProject\\Services\\UserService.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T06:03:24.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T06:03:24.345Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\User.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\User.cs",
               "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\User.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\User.cs",
               "RelativeToolTip": "coreWebAPIAuthenticationProject\\Model\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T06:03:13.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T06:03:13.487Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AuthenticateResponse.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AuthenticateResponse.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AuthenticateResponse.cs",
               "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\Model\\AuthenticateResponse.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AuthenticateResponse.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AuthenticateResponse.cs",
               "RelativeToolTip": "coreWebAPIAuthenticationProject\\Model\\AuthenticateResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T06:03:18.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T06:03:18.454Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AuthenticateRequest.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AuthenticateRequest.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AuthenticateRequest.cs",
               "RelativeDocumentMoniker": "coreWebAPIAuthenticationProject\\Model\\AuthenticateRequest.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AuthenticateRequest.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\Model\\AuthenticateRequest.cs",
               "RelativeToolTip": "coreWebAPIAuthenticationProject\\Model\\AuthenticateRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T06:03:16.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T06:03:16.927Z"
             }
           ]
         }

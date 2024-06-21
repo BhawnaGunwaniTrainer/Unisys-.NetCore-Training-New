@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorSample.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorSample.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\wwwroot\\files\\quote.txt",
+      "PackagePath": "staticwebassets\\files\\quote.txt"
+    },
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\wwwroot\\images\\image1.png",
+      "PackagePath": "staticwebassets\\images\\image1.png"
+    },
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\wwwroot\\images\\image2.png",
+      "PackagePath": "staticwebassets\\images\\image2.png"
+    },
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\wwwroot\\images\\image3.png",
+      "PackagePath": "staticwebassets\\images\\image3.png"
+    },
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\wwwroot\\mapComponent.js",
+      "PackagePath": "staticwebassets\\mapComponent.js"
+    },
+    {
+      "Id": "D:\\Unisys-.NetCore-Training\\BlazorSample_BlazorWebApp\\wwwroot\\scripts.js",
+      "PackagePath": "staticwebassets\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorSample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorSample.props",
+      "PackagePath": "build\\BlazorSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorSample.props",
+      "PackagePath": "buildMultiTargeting\\BlazorSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorSample.props",
+      "PackagePath": "buildTransitive\\BlazorSample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

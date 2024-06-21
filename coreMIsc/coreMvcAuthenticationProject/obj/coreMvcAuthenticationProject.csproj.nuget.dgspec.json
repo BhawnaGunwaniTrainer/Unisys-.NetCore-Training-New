@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreMvcAuthenticationProject\\coreMvcAuthenticationProject.csproj": {}
+    "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreMvcAuthenticationProject\\coreMvcAuthenticationProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreMvcAuthenticationProject\\coreMvcAuthenticationProject.csproj": {
+    "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreMvcAuthenticationProject\\coreMvcAuthenticationProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreMvcAuthenticationProject\\coreMvcAuthenticationProject.csproj",
+        "projectUniqueName": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreMvcAuthenticationProject\\coreMvcAuthenticationProject.csproj",
         "projectName": "coreMvcAuthenticationProject",
-        "projectPath": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreMvcAuthenticationProject\\coreMvcAuthenticationProject.csproj",
+        "projectPath": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreMvcAuthenticationProject\\coreMvcAuthenticationProject.csproj",
         "packagesPath": "C:\\Users\\bhawn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreMvcAuthenticationProject\\obj\\",
+        "outputPath": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreMvcAuthenticationProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bhawn\\AppData\\Roaming\\NuGet\\NuGet.Config",

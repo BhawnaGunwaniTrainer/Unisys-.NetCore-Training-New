@@ -4249,11 +4249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj",
+      "projectUniqueName": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj",
       "projectName": "coreWebAPIAuthenticationProject",
-      "projectPath": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj",
+      "projectPath": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\coreWebAPIAuthenticationProject.csproj",
       "packagesPath": "C:\\Users\\bhawn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreWebAPIAuthenticationProject\\obj\\",
+      "outputPath": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreWebAPIAuthenticationProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bhawn\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,71 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorApp.Client
+build_property.RootNamespace = BlazorApp.Client
+build_property.ProjectDir = D:\Unisys-.NetCore-Training\BlazorWebAppCallWebApi\BlazorApp\BlazorApp.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Unisys-.NetCore-Training\BlazorWebAppCallWebApi\BlazorApp\BlazorApp.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Pages/CallMovieWebApiAuto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbE1vdmllV2ViQXBpQXV0by5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Pages/CallMovieWebApiCsr.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbE1vdmllV2ViQXBpQ3NyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Pages/CallTodoWebApiAuto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbFRvZG9XZWJBcGlBdXRvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Pages/CallTodoWebApiCsr.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbFRvZG9XZWJBcGlDc3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Pages/CallTodoWebApiCsrNamedClient.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbFRvZG9XZWJBcGlDc3JOYW1lZENsaWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Pages/CallTodoWebApiCsrPatch.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbFRvZG9XZWJBcGlDc3JQYXRjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Pages/CallTodoWebApiCsrTypedClient.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbFRvZG9XZWJBcGlDc3JUeXBlZENsaWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Um91dGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-uew0m5ts5k
+
+[D:/Unisys-.NetCore-Training/BlazorWebAppCallWebApi/BlazorApp/BlazorApp.Client/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n3yzvcxigr

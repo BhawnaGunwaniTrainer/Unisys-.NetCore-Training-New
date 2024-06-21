@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KyvwPjtJA34=",
+  "dgSpecHash": "DaRhdZWXk7Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bhawn\\source\\repos\\coreMIsc\\coreMvcAuthenticationProject\\coreMvcAuthenticationProject.csproj",
+  "projectFilePath": "D:\\Unisys-.NetCore-Training\\coreMIsc\\coreMvcAuthenticationProject\\coreMvcAuthenticationProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhawn\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\bhawn\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
