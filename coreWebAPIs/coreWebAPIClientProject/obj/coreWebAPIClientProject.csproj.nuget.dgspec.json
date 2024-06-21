@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\coreWebAPIClientProject.csproj": {}
+    "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\coreWebAPIClientProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\coreWebAPIClientProject.csproj": {
+    "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\coreWebAPIClientProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\coreWebAPIClientProject.csproj",
+        "projectUniqueName": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\coreWebAPIClientProject.csproj",
         "projectName": "coreWebAPIClientProject",
-        "projectPath": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\coreWebAPIClientProject.csproj",
+        "projectPath": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\coreWebAPIClientProject.csproj",
         "packagesPath": "C:\\Users\\bhawn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\obj\\",
+        "outputPath": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bhawn\\AppData\\Roaming\\NuGet\\NuGet.Config",

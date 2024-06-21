@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("coreWebAPIEFCoreProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d1abaaa42cd58e1f06d2eeabb20acdc44fb870b")]
 [assembly: System.Reflection.AssemblyProductAttribute("coreWebAPIEFCoreProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("coreWebAPIEFCoreProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

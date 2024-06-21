@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\",
+  "WorkspaceRootPath": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|c:\\users\\bhawn\\source\\repos\\corewebapis\\corewebapiclientproject\\controllers\\authorclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|d:\\unisys-.netcore-training\\corewebapis\\corewebapiclientproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|solutionrelative:corewebapiclientproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|d:\\unisys-.netcore-training\\corewebapis\\corewebapiclientproject\\controllers\\authorclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|solutionrelative:corewebapiclientproject\\controllers\\authorclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413F9E3F-6CB0-4836-B59B-475E56A2A181}|coreWebAPIEFCoreProject\\coreWebAPIEFCoreProject.csproj|c:\\users\\bhawn\\source\\repos\\corewebapis\\corewebapiefcoreproject\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|d:\\unisys-.netcore-training\\corewebapis\\corewebapiclientproject\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|solutionrelative:corewebapiclientproject\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413F9E3F-6CB0-4836-B59B-475E56A2A181}|coreWebAPIEFCoreProject\\coreWebAPIEFCoreProject.csproj|d:\\unisys-.netcore-training\\corewebapis\\corewebapiefcoreproject\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413F9E3F-6CB0-4836-B59B-475E56A2A181}|coreWebAPIEFCoreProject\\coreWebAPIEFCoreProject.csproj|solutionrelative:corewebapiefcoreproject\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|c:\\users\\bhawn\\source\\repos\\corewebapis\\corewebapiclientproject\\views\\authorclient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|d:\\unisys-.netcore-training\\corewebapis\\corewebapiclientproject\\views\\authorclient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|solutionrelative:corewebapiclientproject\\views\\authorclient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|c:\\users\\bhawn\\source\\repos\\corewebapis\\corewebapiclientproject\\views\\authorclient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|d:\\unisys-.netcore-training\\corewebapis\\corewebapiclientproject\\views\\authorclient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|solutionrelative:corewebapiclientproject\\views\\authorclient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|c:\\users\\bhawn\\source\\repos\\corewebapis\\corewebapiclientproject\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A35203E-97EA-4729-B023-46D1F9663B1E}|coreWebAPIClientProject\\coreWebAPIClientProject.csproj|solutionrelative:corewebapiclientproject\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,28 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\Views\\AuthorClient\\Details.cshtml",
-              "RelativeDocumentMoniker": "coreWebAPIClientProject\\Views\\AuthorClient\\Details.cshtml",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\Views\\AuthorClient\\Details.cshtml",
-              "RelativeToolTip": "coreWebAPIClientProject\\Views\\AuthorClient\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T11:36:31.988Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\Program.cs",
+              "RelativeDocumentMoniker": "coreWebAPIClientProject\\Program.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\Program.cs",
+              "RelativeToolTip": "coreWebAPIClientProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:54:07.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\Models\\Author.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\Models\\Author.cs",
               "RelativeDocumentMoniker": "coreWebAPIClientProject\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\Models\\Author.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\Models\\Author.cs",
               "RelativeToolTip": "coreWebAPIClientProject\\Models\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +64,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthorsController.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIEFCoreProject\\Controllers\\AuthorsController.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIEFCoreProject\\Controllers\\AuthorsController.cs",
               "RelativeDocumentMoniker": "coreWebAPIEFCoreProject\\Controllers\\AuthorsController.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIEFCoreProject\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIEFCoreProject\\Controllers\\AuthorsController.cs",
               "RelativeToolTip": "coreWebAPIEFCoreProject\\Controllers\\AuthorsController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,29 +77,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\Views\\AuthorClient\\Index.cshtml",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\Views\\AuthorClient\\Index.cshtml",
               "RelativeDocumentMoniker": "coreWebAPIClientProject\\Views\\AuthorClient\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\Views\\AuthorClient\\Index.cshtml",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\Views\\AuthorClient\\Index.cshtml",
               "RelativeToolTip": "coreWebAPIClientProject\\Views\\AuthorClient\\Index.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T11:22:30.844Z",
+              "WhenOpened": "2024-06-20T11:22:30.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorClientController.cs",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\Controllers\\AuthorClientController.cs",
+              "RelativeDocumentMoniker": "coreWebAPIClientProject\\Controllers\\AuthorClientController.cs",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\Controllers\\AuthorClientController.cs",
+              "RelativeToolTip": "coreWebAPIClientProject\\Controllers\\AuthorClientController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:17:45.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthorClientController.cs",
-              "DocumentMoniker": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\Controllers\\AuthorClientController.cs",
-              "RelativeDocumentMoniker": "coreWebAPIClientProject\\Controllers\\AuthorClientController.cs",
-              "ToolTip": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\Controllers\\AuthorClientController.cs",
-              "RelativeToolTip": "coreWebAPIClientProject\\Controllers\\AuthorClientController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBwAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T11:17:45.649Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\Views\\AuthorClient\\Details.cshtml",
+              "RelativeDocumentMoniker": "coreWebAPIClientProject\\Views\\AuthorClient\\Details.cshtml",
+              "ToolTip": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\Views\\AuthorClient\\Details.cshtml",
+              "RelativeToolTip": "coreWebAPIClientProject\\Views\\AuthorClient\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:36:31.988Z"
             }
           ]
         }

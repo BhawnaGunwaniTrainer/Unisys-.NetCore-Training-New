@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hJj+8PrxZ14=",
+  "dgSpecHash": "qhIc43UKmoQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bhawn\\source\\repos\\coreWebAPIs\\coreWebAPIClientProject\\coreWebAPIClientProject.csproj",
+  "projectFilePath": "D:\\Unisys-.NetCore-Training\\coreWebAPIs\\coreWebAPIClientProject\\coreWebAPIClientProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhawn\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\bhawn\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
